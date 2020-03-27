@@ -1,12 +1,13 @@
 # Atividade de Banco de Dados
 
 **Turma: SI1NB**
+
 **Integrantes: Guilherme Catrinque Drummond Fernandes, Maria Isabel Santana de Araujo, Rodrigo Pela Hernandes e Windsor Lóss Asis Monteiro.**
 
 
-  Uma loja no sul do estado do Espírito Santo, especializada na venda de roupas calçados, móveis e outros variados produtos para o lar, ao se ver em dificuldade para gerenciar finanças e suas atividades comerciais rotineiras, optou por adotar um sistema banco de dados próprio.
+   Uma loja no sul do estado do Espírito Santo, especializada na venda de roupas calçados, móveis e outros variados produtos para o lar, ao se ver em dificuldade para gerenciar finanças e suas atividades comerciais rotineiras, optou por adotar um sistema banco de dados próprio.
 
-  A ideia é de que este banco seria capaz de registrar fatos relevantes acerca dia-dia da loja, fornecendo informações que haverão de ser lançados em relatórios diários que registrarão as compras, vendas, o atendimento ao cliente, a situação trabalhista dos funcionários.
+   A ideia é de que este banco seria capaz de registrar fatos relevantes acerca dia-dia da loja, fornecendo informações que haverão de ser lançados em relatórios diários que registrarão as compras, vendas, o atendimento ao cliente, a situação trabalhista dos funcionários.
 
   Tal conhecimento gerado, fruto dos relatórios, poderá também, ser utilizado como referência para futuras tomadas de decisões, como novas formas de gerenciamento administrativo/empresarial e possíveis investimentos face a uma nova visão mais ampla e detalhada da situação comercial atual em questão.
 
