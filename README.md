@@ -4,6 +4,7 @@
 
 **Integrantes: Guilherme Catrinque Drummond Fernandes, Maria Isabel Santana de Araujo, Rodrigo Pela Hernandes e Windsor Lóss Asis Monteiro.**
  
+
 Uma loja no sul do estado do Espírito Santo, especializada na venda de roupas, calçados, móveis e outros variados produtos para o lar, ao se ver em dificuldade par agerenciar fianças e suas atividades comerciais rotineiras, optou por adotar um sistema de banco de dados próprio. 
 
  A ideia é de que este banco seria capaz de registrar fatos relevantes acerca dia-dia da loja, fornecendo informações que haverão de ser lançados em relatórios diários que registrarão as compras, vendas, o atendimento ao cliente, a situação trabalhista dos funcionários.
