@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="2A284F69-406F-C088-812D-8E7D995ECBCA" name="Cliente">
+<createdBy>roph</createdBy>
+<createdTime>2020-03-21 00:14:51 UTC</createdTime>
+<ownerDesignName>LojaModeloConceitual2</ownerDesignName>
+<engineerTo>
+<item key="5D5C9885-5823-B9F6-8904-D9ACAAA78EBD" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<hierarchicalParent>CD94F156-5766-3FBD-EB8C-2D58951C4B33</hierarchicalParent>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+</Entity>
