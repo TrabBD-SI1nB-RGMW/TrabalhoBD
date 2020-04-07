@@ -1,7 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<BusinessInfoDesign class="oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign" name="Business Information" id="6E625EDB-C71B-3DCC-0BD5-015286E8021A">
-<createdBy>roph</createdBy>
-<createdTime>2020-03-20 22:20:27 UTC</createdTime>
-<ownerDesignName>LojaModeloConceitual</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
-</BusinessInfoDesign>
