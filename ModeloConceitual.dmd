@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ModeloConceitual" id="09AC3BD5-9725-AF93-A4DB-D8DFC84FF348" version="3.5">
-<createdBy>roph</createdBy>
-<createdTime>2020-03-20 22:20:26 UTC</createdTime>
-<ownerDesignName>LojaModeloConceitual</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>09AC3BD5-9725-AF93-A4DB-D8DFC84FF348</designId>
-</OSDM_Design>
