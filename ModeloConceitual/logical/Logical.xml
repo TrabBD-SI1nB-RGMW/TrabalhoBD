@@ -1,7 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="DD7C7DE6-15D8-98AE-33B7-B5161C80D48D" mainViewID="7257D029-5404-FE3E-AF1D-692EE80A1AAD">
-<createdBy>roph</createdBy>
-<createdTime>2020-03-20 22:20:26 UTC</createdTime>
-<ownerDesignName>LojaModeloConceitual</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
-</LogicalDesign>
