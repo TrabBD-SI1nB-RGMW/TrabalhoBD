@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<InheritanceRelation class="oracle.dbtools.crest.model.design.logical.InheritanceRelation" name="Hierarchy_2" directorySegmentName="seg_0" id="2AADE0FC-2E2F-714F-075A-5D7E31DC9D67">
+<createdBy>roph</createdBy>
+<createdTime>2020-03-21 00:22:16 UTC</createdTime>
+<ownerDesignName>LojaModeloConceitual</ownerDesignName>
+<engineerTo>
+<item key="5D5C9885-5823-B9F6-8904-D9ACAAA78EBD" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<nameOnSource>Super Type</nameOnSource>
+<nameOnTarget>Sub Type</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceEntity>FF56AA8F-8DEA-57CC-DEDB-8ABF532F4DE6</sourceEntity>
+<targetEntity>4F708A07-1405-60E7-F57C-0A9220D78E3A</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</InheritanceRelation>
