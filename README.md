@@ -15,4 +15,4 @@
 
    Os clientes ao adentrarem a loja podem a sua vontade, optar ou não pelo atendimento dos funcionários responsáveis de pronto. Ao se decidirem quanto ao(s) produto(s) que desejam levar, irão se dirigir aos caixas onde optarão por realizar o pagamento na modalidade à vista ou parcelada, sendo a segunda obrigatório o cadastro do cliente.
  
-   A loja conta com estoque único e próprio, encontrado na mesma localidade na qual se encontra a loja, sendo atualizado a cada venda realizada. O reabastecimento será feito quando assim demonstrado necessário em resposta aos relatórios expedidos.
+   A loja conta com estoque único e próprio, encontrado na mesma localidade da loja, sendo atualizado a cada venda realizada. O reabastecimento será feito quando assim demonstrado necessário em resposta aos relatórios expedidos.
